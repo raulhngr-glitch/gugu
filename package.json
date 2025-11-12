@@ -22,9 +22,3 @@
     "postcss": "8.4.0"
   }
 }
-
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  }
